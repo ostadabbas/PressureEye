@@ -14,6 +14,7 @@ This project is developed under python3.8/Anaconda 3. Please check requirements.
 
 ## pretrained models.
 Please refer to our paper for the the specific configurations.
+
 RGB: 
 [pwrs-phy](http://www.coe.neu.edu/Research/AClab/PEye/vis2PM_exp_uc_RGB-2-PMarray_n_phy1_stg3_whtL-pwrs-100.0L2_lap0.001_sum1e-06_ssim0.0_D0.0L3.zip),
 [pwrs-phy-ssim-D](http://www.coe.neu.edu/Research/AClab/PEye/vis2PM_exp_uc_RGB-2-PMarray_n_phy1_stg3_whtL-pwrs-100.0L2_lap0.001_sum1e-06_ssim10.0_D1.0L3.zip)
@@ -31,6 +32,7 @@ LWIR:
 
 `python test.py  --model vis2PM --mod_src RGB --mod_tar PMarray --n_phy 1 --type_whtL pwrs --lambda_sum 1e-6 --lambda_ssim 10 --lambda_D 1 
 `
+
 Other sota approaches are also included in `pmScripts`:
 ```
 openPose.sh
