@@ -46,7 +46,12 @@ cycleGAN.sh
 
 ## Citation 
 If you find this work helpful, please cite the following work. 
-Pressure Eye: In-bed Contact Pressure Estimationvia Contact-less Imaging (**update the latex version**) 
+@article{liu2021pressureeye,
+  title={Pressure Eye: In-bed Contact Pressure Estimation via Contact-less Imaging},
+  author={Liu, Shuangjun and Ostadabbas, Sarah},
+  journal={arXiv 4138086},
+  year={2021}
+}
 
 
 ## Acknowledgments
