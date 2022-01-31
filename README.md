@@ -49,7 +49,7 @@ If you find this work helpful, please cite the following work.
 @article{liu2021pressureeye,
   title={Pressure Eye: In-bed Contact Pressure Estimation via Contact-less Imaging},
   author={Liu, Shuangjun and Ostadabbas, Sarah},
-  journal={arXiv 4138086},
+  journal={http://arxiv.org/abs/2201.11828},
   year={2021}
 }
 
